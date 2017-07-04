@@ -1,0 +1,9 @@
+pwhitelist:
+  simple:
+    - 'ibnab_pmanger_email_createpdf'
+    - 'oro_email_autocomplete_recipient'
+  pattern:
+    - '^pmanager_template_[a-z_]+'
+    - '^pdforo_api_get_pdftemplate_[a-z_]+'
+    - '^pmanager_default_[a-z_]+'
+    
